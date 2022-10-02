@@ -1,0 +1,343 @@
+{
+  "my-name-data" : [ {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "1"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "2"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "3"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "4"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "5"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "6"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "7"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "8"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "9"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "10"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "11"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "12"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "13"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "14"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "15"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "16"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "17"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "18"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "19"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+        
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "20"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "21"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "22"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+      }
+    }
+  }, {
+    "PutRequest" : {
+      "Item" : {
+        "id" : {
+          "N" : "23"
+        },
+        "name" : {
+          "S" : "TEST_NAME"
+        },
+        "description" : {
+          "S" : "TEST_DESCRIPTION"
+        }
+      }
+    }
+  } ]
+}

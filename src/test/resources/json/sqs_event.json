@@ -1,0 +1,20 @@
+{
+	"records": [
+		{
+			"messageId": "0ba67892-303f-4086-25452-123654d412ff40",
+			"receiptHandle": "AQEBUzkeZPlCr4Xww4mCTsleyMDMiFFTCLAROdr9qCPm1waqFMIVaLy2l1pSssNDS6fc9xGxj/KsP4r0O7wGuy+KKee2384vQYi1SjRsqcAVTo19asMOhdEEZL1vuVUv2owiYNpzJzMdpyCBRaIVQWWLO5D8+32KLywTo4t0Gm77gPQE/Eqg7jUekNDBoG6zsKGWiF1WD2HneUKckma6SxbklD7BbPm9CyUvEo/8+TGRoNaOiTxjMrWxt7m7GSIZT7A4cdHrazQliKsu+wX9dJXi6GqJbOzo5pg8/EzjCG3ng4PjIInyQ51YPLB1OvQooSHozsRgTtz/uA0M3C8jLnKZLLXWIEQ6Ril/uEy7KGGMnnnErxgVe2XsN3onQAGCTD29",
+			"body": "{ \"Type\": \"Notification\", \"Message\": { \"Records\": [{ \"s3\" : { \"bucket\" : { \"name\" : \"aws-sample-test-bucket\" },\"object\": { \"key\" : \"sample/source1/in/test_sample_file.zip\" }}}]}}",
+			"attributes": {
+				"ApproximateReceiveCount": "1",
+				"SentTimestamp": "162792127123",
+				"SenderId": "AGISSDS",
+				"ApproximateFirstReceiveTimestamp": "1627921276as1"
+			},
+			"messageAttributes": {},
+			"md5OfBody": "2225ad6018e3adea1405587effd79c9b",
+			"eventSource": "aws:sqs",
+			"eventSourceArn": "arn:aws:sqs:eu-west-1:1234567890:my_test_queue",
+			"awsRegion": "eu-west-1"
+		}
+	]
+}

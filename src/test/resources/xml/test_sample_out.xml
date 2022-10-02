@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns3:SampleData
+	xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+	xmlns:ns2="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+	xmlns:ns3="urn:oasis:names:specification:ubl:schema:xsd:TestSample-2">
+	<ns2:Data1>
+		<ID>1</ID>
+	</ns2:Data1>
+</ns3:SampleData>
