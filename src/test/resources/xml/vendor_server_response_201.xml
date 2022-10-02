@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseRoot timestamp="2021-08-04T01:31:27-07:00"
+	payloadID="1628065887351-208903966957621046@10.162.97.205">
+	<Response>
+		<Status code="201" text="Accepted">Acknowledged</Status>
+	</Response>
+</ResponseRoot>

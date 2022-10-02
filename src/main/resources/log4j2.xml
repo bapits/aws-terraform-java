@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Appenders>
+		<Console name="console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+		<Lambda name="Lambda">
+			<PatternLayout>
+				<pattern>%d{yyyy-MM-dd HH:mm:ss} %X{AWSRequestId} %-5p %c{1}:%L -
+					%m%n</pattern>
+			</PatternLayout>
+		</Lambda>
+		<!-- Uncomment it when required, otherwise on windows system it just keep 
+			throwing useless exception of path. <RollingFile name="RollingFile" fileName="/tmp/aws.${date:yyyy-MM-dd}.log" 
+			filePattern="/tmp/aws.%d{yyyy-MM-dd}.log"> <PatternLayout pattern="%d{HH:mm:ss.SSS} 
+			[%t] %-5level %logger{36} - %msg%n"/> <TimeBasedTriggeringPolicy modulate="true" 
+			/> </RollingFile> -->
+	</Appenders>
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="Lambda" />
+		</Root>
+		<Logger name="software.amazon.awssdk" level="WARN" />
+		<Logger name="software.amazon.awssdk.request" level="DEBUG" />
+	</Loggers>
+</Configuration>

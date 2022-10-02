@@ -1,0 +1,2 @@
+bucket = "aws-terraform-states-dev"
+key = "aws-sample-test/terraform.tfstate"
